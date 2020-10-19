@@ -82,7 +82,7 @@ results = model.evaluate(test_data,  test_labels, verbose=2)
 # print(model.predict(test_data[0]))
 print(model.predict_classes(test_data[:2]))
 
-type(test_data[:2])
+# type(test_data[:2])
 
 #print(test_data[0])
 #model.save('first Model.h5')
