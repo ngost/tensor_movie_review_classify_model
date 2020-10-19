@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2982a2e9-c150-478b-b80e-1ec52f904e76" name="Default" comment="" />
+    <list default="true" id="2982a2e9-c150-478b-b80e-1ec52f904e76" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="mainly.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mainly.py">
+        <entry file="file://$PROJECT_DIR$/root/mainly.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
               <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
@@ -28,7 +30,7 @@
         </entry>
       </file>
       <file leaf-file-name="load_model.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/load_model.py">
+        <entry file="file://$PROJECT_DIR$/root/load_model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1520">
               <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
@@ -118,6 +120,11 @@
               <item name="tensorPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tensorPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -129,6 +136,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/ijin-yeong/PycharmProjects/tensorPractice/mainly.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/root" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +168,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/load_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +187,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainly.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/root/mainly.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +283,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/load_model.py">
+    <entry file="file://$PROJECT_DIR$/root/load_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1520">
           <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
@@ -281,7 +293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainly.py">
+    <entry file="file://$PROJECT_DIR$/root/mainly.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
           <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
