@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2982a2e9-c150-478b-b80e-1ec52f904e76" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.bashrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ijin_yeong.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/tensorPractice.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/first Model.h5" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/load_model.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mainly.py" />
-    </list>
+    <list default="true" id="2982a2e9-c150-478b-b80e-1ec52f904e76" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mainly.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mainly.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainly.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
@@ -38,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="load_model.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="load_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/load_model.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1520">
@@ -139,6 +128,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/ijin-yeong/PycharmProjects/tensorPractice/mainly.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -281,20 +271,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainly.py">
+    <entry file="file://$PROJECT_DIR$/load_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        <state relative-caret-position="1520">
+          <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/load_model.py">
+    <entry file="file://$PROJECT_DIR$/mainly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="76" column="24" lean-forward="false" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+        <state relative-caret-position="517">
+          <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
